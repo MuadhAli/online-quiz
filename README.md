@@ -5,9 +5,13 @@ The Online Quiz Application is a powerful educational tool developed using Djang
 
 
 ![Alt Text](/images/11.png)
+
 ![Alt Text](/images/12.png)
+
 ![Alt Text](/images/13.png)
+
 ![Alt Text](/images/14.png)
+
 ![Alt Text](/images/15.png)
 
 ## How to Run the Project
