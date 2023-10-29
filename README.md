@@ -3,6 +3,13 @@
 ## Description
 The Online Quiz Application is a powerful educational tool developed using Django and MySQL. This application serves as a comprehensive platform for administrators, teachers, and students to streamline the quiz creation, management, and learning process. Administrators have access to an intuitive Admin Panel, while teachers can create and evaluate quizzes, and students can participate in them.
 
+
+![Alt Text](/images/11.png)
+![Alt Text](/images/12.png)
+![Alt Text](/images/13.png)
+![Alt Text](/images/14.png)
+![Alt Text](/images/15.png)
+
 ## How to Run the Project
 
 1. Install the required dependencies by running the following command in your terminal:
